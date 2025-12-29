@@ -8,11 +8,7 @@ View the live demo here: [https://disney-animation-showcase.netlify.app/](https:
 
 ### Preview
 
-https://github.com/user-attachments/assets/demo.mp4
-
-<!-- Note: If viewing on GitHub, the video will be embedded automatically. 
-     Otherwise, you can download and view demo.mp4 from the project root. -->
-
+https://github.com/khudiiash/disney-animation-showcase/blob/main/demo.mp4
 
 ## Tech
 
