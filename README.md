@@ -8,7 +8,9 @@ View the live demo here: [https://disney-animation-showcase.netlify.app/](https:
 
 ### Preview
 
-https://github.com/khudiiash/disney-animation-showcase/blob/main/demo.mp4
+
+https://github.com/user-attachments/assets/f7327f83-ecfb-4701-b4b4-15db5beac0f5
+
 
 ## Tech
 
